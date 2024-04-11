@@ -36,6 +36,3 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 [NIST Incident report analysis .pdf](https://github.com/PMW25/NIST-Cybersecurity-Framework-Project/files/14941456/NIST.Incident.report.analysis.pdf)
 
 
-Example below.
-
-*Ref 1: Network Diagram*
